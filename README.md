@@ -17,4 +17,5 @@ Homework for Week 2
 
 ---
 
- - Inanc Gumus Exercises started 
+ - Inanc Gumus Exercises  up to 10 completed.
+ - Coding exercises completed
