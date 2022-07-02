@@ -14,3 +14,7 @@ Homework for Week 2
     - An exercise for scope
     
 ## Do not forget to commit the initial and final work.
+
+---
+
+ - Inanc Gumus Exercises started 
